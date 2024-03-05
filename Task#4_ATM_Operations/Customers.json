@@ -1,0 +1,30 @@
+[
+
+{
+  "ID": 1,
+  "FirstName": "Aleksandre",
+  "LastName": "Amoev",
+  "IDNumber": "01001077396",
+  "Password": 1234,
+  "Balance": 87088
+}
+,
+{
+  "ID": 2,
+  "FirstName": "Merab",
+  "LastName": "Amoevi",
+  "IDNumber": "01001077398",
+  "Password": 2134,
+  "Balance": 60209
+}
+,
+{
+  "ID": 3,
+  "FirstName": "Ilona",
+  "LastName": "Meliqian",
+  "IDNumber": "01001076255",
+  "Password": 4575,
+  "Balance": 51090
+}
+
+]

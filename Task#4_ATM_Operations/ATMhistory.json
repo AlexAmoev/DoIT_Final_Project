@@ -1,0 +1,79 @@
+[
+    {
+        "CustomerId": "01001077396",
+        "CustomerName": "Aleksandre Amoev",
+        "OperationType": "Checked the balance",
+        "OperationDate": "3/4/2024 23:39:02",
+        "Comment": ""
+    },
+    {
+        "CustomerId": "01001077396",
+        "CustomerName": "Aleksandre Amoev",
+        "OperationType": "Refilled the balance with 10 GEL",
+        "OperationDate": "3/5/2024 00:43:52",
+        "Comment": "current balance is 88088 GEL"
+    },
+    {
+        "CustomerId": "01001077396",
+        "CustomerName": "Aleksandre Amoev",
+        "OperationType": "Refilled the balance with 10 GEL",
+        "OperationDate": "3/5/2024 00:46:25",
+        "Comment": "current balance is 88088 GEL"
+    },
+    {
+        "CustomerId": "01001077396",
+        "CustomerName": "Aleksandre Amoev",
+        "OperationType": "Refilled the balance with 10 GEL",
+        "OperationDate": "3/5/2024 01:00:50",
+        "Comment": "current balance is 88088 GEL"
+    }
+ ,{
+  "CustomerId": "01001077396",
+  "CustomerName": "Aleksandre Amoev",
+  "OperationType": "Withdraw the balance with 1000 GEL",
+  "OperationDate": "05.03.2024 17:04:36",
+  "Comment": "Current balance is 87088 GEL"
+  }
+ ,{
+  "CustomerId": "01001077396",
+  "CustomerName": "Aleksandre Amoev",
+  "OperationType": "Checked the balance",
+  "OperationDate": "3/5/2024 20:34:45",
+  "Comment": ""
+  }
+ ,{
+  "CustomerId": "01001077398",
+  "CustomerName": "Merab Amoevi",
+  "OperationType": "Checked the balance",
+  "OperationDate": "3/5/2024 20:46:35",
+  "Comment": ""
+  }
+ ,{
+  "CustomerId": "01001077398",
+  "CustomerName": "Merab Amoevi",
+  "OperationType": "Withdraw the balance with 100 GEL",
+  "OperationDate": "3/5/2024 20:47:02",
+  "Comment": "Current balance is 60209 GEL"
+  }
+ ,{
+  "CustomerId": "01001076255",
+  "CustomerName": "Ilona Meliqian",
+  "OperationType": "Refilled the balance with 20 GEL",
+  "OperationDate": "3/5/2024 20:48:28",
+  "Comment": "Current balance is 51091 GEL"
+  }
+ ,{
+  "CustomerId": "01001076255",
+  "CustomerName": "Ilona Meliqian",
+  "OperationType": "Refilled the balance with 1 GEL",
+  "OperationDate": "3/5/2024 20:48:50",
+  "Comment": "Current balance is 51092 GEL"
+  }
+ ,{
+  "CustomerId": "01001076255",
+  "CustomerName": "Ilona Meliqian",
+  "OperationType": "Withdraw the balance with 2 GEL",
+  "OperationDate": "3/5/2024 20:49:03",
+  "Comment": "Current balance is 51090 GEL"
+  }
+]
